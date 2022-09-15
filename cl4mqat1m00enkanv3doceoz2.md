@@ -2,8 +2,6 @@
 
 ## Introduction
 
-![thinking](https://giphy.com/gifs/sesame-street-fma-elmo-8acGIeFnqLA7S)
-
 Programming languages may have different naming conventions in declaring variables, classes, or file names. Typically, you would see Python programs use snake case when declaring variables while JavaScript programs use camel case. If you are fairly new to Javascript, this article may serve as a guideline in terms of naming your variables, classes, and even file names. 
 
 Here are some things you might need to know before proceeding:
