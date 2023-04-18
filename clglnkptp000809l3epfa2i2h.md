@@ -110,4 +110,4 @@ After more than a month of applying for a developer role, with God's grace I was
 
 ## The New Beginning 👣
 
-At the end of this blog, I hope I have inspired people that are planning to become a developer. It does not matter if your current work is not related at all since career shifters are common these days. What matters is that you are motivated enough to do the grind. Also, enjoy and love what you do! This is only my journey yours could be different. Thank you for reading and stay adventurous!
+At the end of this blog, I hope I have inspired people that are planning to become a developer. It does not matter if your current work is not related at all since career shifters are common these days. What matters is that you are motivated enough to do the grind. Also, enjoy and love what you do! This is my journey and yours could be different. Thank you for reading and stay adventurous!
